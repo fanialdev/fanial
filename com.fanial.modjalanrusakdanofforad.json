@@ -1,0 +1,125 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"IRON",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca",
+         "main_ads_intertitial":"ca",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "backup_ads_rewards":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"0ba28219-96db-4379-b547-8682187253da",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"JALAN RUSAK",
+         "title":"Map Masuk Hutan",
+         "image":"file:///android_asset/MapBlusukanHutanss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/MAP%20OFROD.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":2,
+         "category":"JALAN RUSAK",
+         "title":"Map Tangkuban Perahu",
+         "image":"file:///android_asset/MapGunungTangkubanPerahuss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/Code%20Name%20Wisata%20Gunung%20by%20Budesign.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":3,
+         "category":"JALAN RUSAK",
+         "title":"Map Becek Bukit Tinggi",
+         "image":"file:///android_asset/MapJalanBecekBukitTinggiss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/MAP%20jalan%20becek%20JALUR%20BUKIT%20TINGGI.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":4,
+         "category":"JALAN RUSAK",
+         "title":"Map Becek Plus Rusak",
+         "image":"file:///android_asset/MapJalanBecekdanRusakss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/Kodename%20Jalan%20Becek%20dan%20Rusak.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":5,
+         "category":"JALAN RUSAK",
+         "title":"Map Ekstrim Papua",
+         "image":"file:///android_asset/MapJalarEkstrimPapuass.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/mod%20map%20jalur%20maut.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":6,
+         "category":"JALAN RUSAK",
+         "title":"Map BerKelok Offroad",
+         "image":"file:///android_asset/MapJalurKelokOffroadss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/KELOK%20OFROAD.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":7,
+         "category":"JALAN RUSAK",
+         "title":"Map Tanjakan",
+         "image":"file:///android_asset/MapJalurNanjakss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/MOD%20OFFROAD%20ALIYAN%20GMP.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":8,
+         "category":"JALAN RUSAK",
+         "title":"Map Offroad Extreme",
+         "image":"file:///android_asset/MapOffroadExtremess.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/ROADFROOD.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":9,
+         "category":"JALAN RUSAK",
+         "title":"Map Extreme by Play Kembar",
+         "image":"file:///android_asset/MapOffroadExtremev1byXPlayKembarss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/MOD%20Map%20Offroad%20Extreme%20v1%20by%20X%20Play%20Kembar.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":10,
+         "category":"JALAN RUSAK",
+         "title":"Map PKU Extreme",
+         "image":"file:///android_asset/MapPKUExtremess.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/pku.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":11,
+         "category":"JALAN RUSAK",
+         "title":"Map Bahaya",
+         "image":"file:///android_asset/MapRuteBerbahayass.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/Snakeskull_road.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":12,
+         "category":"JALAN RUSAK",
+         "title":"Map Sabang",
+         "image":"file:///android_asset/ModMapSabangV1ss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/sabang.bussidmod",
+         "link_livery":"null"
+      }
+   ]
+}

@@ -69,6 +69,60 @@
          "image":"file:///android_asset/SR2 Tronton Scania CV STJ Drakass.jpg",
          "link_mods":"https://archive.org/download/STJDrakaLengkap/%5B%202F%20%5D%20SR2%20XHD%20Prime%20TRONTON%20PAKE%20WINGLET%20BY%20CORELAV%20VIVA%20VARIAN%20SCANIA.bussidmod",
          "link_livery":"https://archive.org/download/STJDrakaLengkap/DRAKA%20STJ%20NEW%20STIKER%20STROBO%20SR2%20XHD%20PRIME%20TRONTON%20CORELAV%20VIVA%20BY%20GARASI%20TUBE.png"
+      },
+      {
+         "title":"SRDua XHD Gen3 STJ Draka",
+         "image":"file:///android_asset/SR2 XHD Gen 3 MN Art STJ Drakass.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/sr2%20xhd%20gen3%20update%20DOP%20LAKSANA%20SEDIKIT%20ACC.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/DRAKA%20STJ%20STROBO%20CUSTOM%20MOD%20SR2%20GEN3%20S%20SERIES%20MN%20ART.png"
+      },
+      {
+         "title":"SRDua Gen3 STJ Pandjalu",
+         "image":"file:///android_asset/SR2 Gen3 STJ Pandjaluss.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/sr2%20xhd%20gen3%20update%20DOP%20LAKSANA%20SEDIKIT%20ACC%281%29.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/STJ%20157%20PANDJALU%20MOD%20SR2%20GEN3%20S%20SERIES.png"
+      },
+      {
+         "title":"SRDua STJ Faqih",
+         "image":"file:///android_asset/SR2 Tronton STJ Faqih Rainbowss.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/SR2%20XHD%20Prime%20mercy.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/FAQIH%20RAINBOW%20STJ%20ALCOA%20SR2%20XHD%20PRIME%20TRONTON.png"
+      },
+      {
+         "title":"SRDua STJ Samoa",
+         "image":"file:///android_asset/SR2 Tronton STJ Samoass.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/SR2%20XHD%20Prime%20mercy.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/STJ%20SAMOA%20STIKER%20BARU%20SR2%20XHD%20PRIME%20TRONTON.png"
+      },
+      {
+         "title":"SRDuaXHD Prm STJ Dome",
+         "image":"file:///android_asset/SR2 XHD Prome STJ Domess.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/SR%202%20HINO%20FREE%20VERSION%283%29.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/Stj%20Gangtey%20By%20krisna%20Putra.png"
+      },
+      {
+         "title":"SRDuaXHD Prm STJ Gang",
+         "image":"file:///android_asset/SR2 XHD Prime STJ Gangteyss.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/SR%202%20HINO%20FREE%20VERSION%282%29.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/STJ%20KINANDIRA.png"
+      },
+      {
+         "title":"SRDuaXHD Prm Kinan",
+         "image":"file:///android_asset/SR2 XHD Prime Kinandirass.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/SR%202%20HINO%20FREE%20VERSION%281%29.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/Stj%20Mauro%20Sr2%20Xhd.png"
+      },
+      {
+         "title":"SRDuaXHD Prm STJ Mauro",
+         "image":"file:///android_asset/SR2 XHD Prime STJ Mauross.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/SR%202%20HINO%20FREE%20VERSION%281%29.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/Stj%20Mauro%20Sr2%20Xhd.png"
+      },
+      {
+         "title":"Legas SRDua R66 STJ",
+         "image":"file:///android_asset/Legacy SR2 Ece R66 Special STJss.jpg",
+         "link_mods":"https://archive.org/download/STJDrakaLengkap/SR2%20ECE%20R66%20hino%20standart.bussidmod",
+         "link_livery":"https://archive.org/download/STJDrakaLengkap/STJ%20Maron%20SR2%20cvt%20RSM%20by%20Blahbloh.png"
       }
    ]
 }

@@ -80,6 +80,46 @@
          "image":"file:///android_asset/MapJalurNanjakss.jpg",
          "link_mods":"https://archive.org/download/MapJalanRusak/MOD%20OFFROAD%20ALIYAN%20GMP.bussidmod",
          "link_livery":"null"
+      },
+      {
+         "id":8,
+         "category":"JALAN RUSAK",
+         "title":"Map Offroad Extreme",
+         "image":"file:///android_asset/MapOffroadExtremess.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/ROADFROOD.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":9,
+         "category":"JALAN RUSAK",
+         "title":"Map Extreme by Play Kembar",
+         "image":"file:///android_asset/MapOffroadExtremev1byXPlayKembarss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/MOD%20Map%20Offroad%20Extreme%20v1%20by%20X%20Play%20Kembar.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":10,
+         "category":"JALAN RUSAK",
+         "title":"Map PKU Extreme",
+         "image":"file:///android_asset/MapPKUExtremess.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/pku.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":11,
+         "category":"JALAN RUSAK",
+         "title":"Map Bahaya",
+         "image":"file:///android_asset/MapRuteBerbahayass.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/Snakeskull_road.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":12,
+         "category":"JALAN RUSAK",
+         "title":"Map Sabang",
+         "image":"file:///android_asset/ModMapSabangV1ss.jpg",
+         "link_mods":"https://archive.org/download/MapJalanRusak/sabang.bussidmod",
+         "link_livery":"null"
       }
    ]
 }
